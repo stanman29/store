@@ -13,3 +13,5 @@ New Version 0.0.1
 Bug Info
 Lots of them, needs more work.
 
+Changes to readme
+
